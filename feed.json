@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pásalo Podcast",
+    "description": "",
+    "home_page_url": "https://pasalogroup.github.io/pasalo-podcast",
+    "feed_url": "https://pasalogroup.github.io/pasalo-podcast/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Luis Orriols &amp; Carlos Figueroa"
+    },
+    "items": [
+    ]
+}

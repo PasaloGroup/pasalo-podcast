@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pasalogroup.github.io/pasalo-podcast/sitemap.xml
