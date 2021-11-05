@@ -3,7 +3,7 @@
     <title>Pásalo Podcast</title>
     <link href="https://pasalogroup.github.io/pasalo-podcast/feed.xml" rel="self" />
     <link href="https://pasalogroup.github.io/pasalo-podcast" />
-    <updated>2021-11-04T23:03:05-04:00</updated>
+    <updated>2021-11-04T23:03:45-04:00</updated>
     <author>
         <name>Luis Orriols &amp; Carlos Figueroa</name>
     </author>
@@ -48,7 +48,7 @@
             <category term="Temporada #1"/>
             <category term="S01E01"/>
 
-        <updated>2021-11-04T23:03:05-04:00</updated>
+        <updated>2021-11-04T23:03:45-04:00</updated>
             <summary>
                 <![CDATA[
                     En este primer episodio nos encontramos experimentando con una grabadora, dos micrófonos y dos anormales que no son expertos en&hellip;
@@ -63,7 +63,7 @@
 <tr style="height: 125px;">
 <td style="width: 20%; height: 97px;"><a href="https://anchor.fm/pasalopodcast/episodes/Una-Conversacin-Normal-e3evuq/a-abmt2q" rel="nofollow"><figure class="post__image post__image--center"><img loading="lazy"  src="https://pasalogroup.github.io/pasalo-podcast/media/files/icon_anchorfm.png" data-is-external-image="true"  alt="AnchorFM Icon" width="100" height="100"></figure></a></td>
 <td style="width: 20%; height: 97px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://pasalogroup.github.io/pasalo-podcast/media/files/spotify.png" data-is-external-image="true"  alt="Spotify Icon"></figure></td>
-<td style="width: 20%; height: 97px;"> </td>
+<td style="width: 20%; height: 97px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://pasalogroup.github.io/pasalo-podcast/media/files/spotify.svg" data-is-external-image="true"  alt="Spotify Icon"></figure></td>
 <td style="width: 20%; height: 97px;"> </td>
 <td style="width: 20%; height: 97px;"> </td>
 </tr>
