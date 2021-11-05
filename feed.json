@@ -9,5 +9,18 @@
         "name": "Luis Orriols &amp; Carlos Figueroa"
     },
     "items": [
+        {
+            "id": "https://pasalogroup.github.io/pasalo-podcast/ep-1/",
+            "url": "https://pasalogroup.github.io/pasalo-podcast/ep-1/",
+            "title": "Ep 1",
+            "author": {
+                "name": "Luis Orriols &amp; Carlos Figueroa"
+            },
+            "tags": [
+                   "Temporada #1"
+            ],
+            "date_published": "2021-11-04T21:04:16-04:00",
+            "date_modified": "2021-11-04T21:08:26-04:00"
+        }
     ]
 }
