@@ -3,7 +3,7 @@
     <title>Pásalo Podcast</title>
     <link href="https://pasalogroup.github.io/pasalo-podcast/feed.xml" rel="self" />
     <link href="https://pasalogroup.github.io/pasalo-podcast" />
-    <updated>2021-11-04T22:34:40-04:00</updated>
+    <updated>2021-11-04T22:37:42-04:00</updated>
     <author>
         <name>Luis Orriols &amp; Carlos Figueroa</name>
     </author>
@@ -48,7 +48,7 @@
             <category term="Temporada #1"/>
             <category term="S01E01"/>
 
-        <updated>2021-11-04T22:34:40-04:00</updated>
+        <updated>2021-11-04T22:37:42-04:00</updated>
             <summary>
                 <![CDATA[
                     <p>En este primer episodio nos encontramos experimentando con una grabadora, dos micrófonos y dos anormales que no son expertos en ningún tema.</p>
@@ -59,14 +59,14 @@
             <![CDATA[
                 <p>En este primer episodio nos encontramos experimentando con una grabadora, dos micrófonos y dos anormales que no son expertos en ningún tema.</p>
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%; height: 125px;" border="1">
 <tbody>
-<tr>
-<td style="width: 20%;"> </td>
-<td style="width: 20%;"> </td>
-<td style="width: 20%;"> </td>
-<td style="width: 20%;"> </td>
-<td style="width: 20%;"> </td>
+<tr style="height: 125px;">
+<td style="width: 20%; height: 125px;"><a href="https://anchor.fm/pasalopodcast/episodes/Una-Conversacin-Normal-e3evuq/a-abmt2q" rel="nofollow"><figure class="post__image post__image--center"><img loading="lazy"  src="https://pasalogroup.github.io/pasalo-podcast/media/files/icon_anchorfm.png" data-is-external-image="true"  alt="AnchorFM Icon" width="100" height="100"></figure></a></td>
+<td style="width: 20%; height: 125px;"> </td>
+<td style="width: 20%; height: 125px;"> </td>
+<td style="width: 20%; height: 125px;"> </td>
+<td style="width: 20%; height: 125px;"> </td>
 </tr>
 </tbody>
 </table>
